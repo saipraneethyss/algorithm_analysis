@@ -1,0 +1,5 @@
+Bubble Sort: 190 comparisons, 276 copies
+Insertion Sort: 111 comparisons, 130 copies
+Counting Sort: 0 comparisons, 20 copies
+Merge Sort: 54 comparisons, 176 copies
+Quick Sort: 118 comparisons, 105 copies
